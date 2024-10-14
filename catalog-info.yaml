@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ceda-backstage-template-experiment-19
+  description: "Library template creation experiment 19"
+  annotations:
+    github.com/project-slug: cedadev/ceda-backstage-template-experiment-19
+spec:
+  type: library
+  owner: user:default/djspstfc
+  lifecycle: experimental
