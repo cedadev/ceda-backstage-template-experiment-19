@@ -25,7 +25,7 @@ bandit = "^1.7.9"
 pre-commit = "^3.7.1"
 
 [tool.poetry.group.ruff.dependencies]
-ruff = "^0.5.2"
+ruff = "^0.6.9"
 pre-commit = "^3.7.1"
 
 [tool.poetry.group.isort.dependencies]
