@@ -1,0 +1,10 @@
+site_name: 'ceda-backstage-template-experiment-19'
+site_description: 'Techncal information for CEDA Backstage Template Experiment 19'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
+
+docs_dir: "tech-docs"

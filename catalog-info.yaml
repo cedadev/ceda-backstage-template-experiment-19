@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: cedadev/ceda-backstage-template-experiment-19
     backstage.io/source-template: template:default/ceda-github-python-library
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   owner: user:default/djspstfc
